@@ -1,0 +1,23 @@
+{
+  "name": "jquery-echo",
+  "version": "0.0.5",
+  "homepage": "https://github.com/jansanchez/jquery-echo",
+  "authors": [
+    "Jan Sanchez <joejansanchez@gmail.com>"
+  ],
+  "description": "A jQuery Echo Plugin",
+  "main": "dist/jquery-echo.js",
+  "keywords": [
+    "jquery",
+    "echo",
+    "plugin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
